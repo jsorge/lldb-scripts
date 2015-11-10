@@ -1,0 +1,3 @@
+# Alias
+command alias bfl breakpoint set --file %1 --line %2
+command alias uikit expr @import UIKit
